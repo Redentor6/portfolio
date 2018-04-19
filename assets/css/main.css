@@ -56,6 +56,12 @@
 		box-sizing: border-box;
 	}
 
+
+	#mugshot {
+		height: 100px;
+		width: 100px;
+	}
+
 /* Containers */
 
 	.container {
